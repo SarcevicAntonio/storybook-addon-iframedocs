@@ -6,6 +6,9 @@ import * as HeaderStories from './Header.stories';
 export default {
   title: 'Example/Page',
   component: Page,
+  parameters: {
+    iframeSrc: `http://localhost:5500/documentation/components/ButtonComponent.html`,
+  },
 };
 
 const Template = (args) => <Page {...args} />;
