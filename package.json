@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/SarcevicAntonio/storybook-addon-iframedocs"
   },
-  "author": "winkerVSbecks",
+  "author": "sarcevic",
   "license": "MIT",
   "main": "dist/preset.js",
   "files": [

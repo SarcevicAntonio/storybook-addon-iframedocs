@@ -1,3 +1,9 @@
+# TODO:
+
+[] dont show panel if no iframeSrc has been set
+[] replace readme
+
+
 # Storybook Addon Kit
 
 Simplify the creation of Storybook addons
