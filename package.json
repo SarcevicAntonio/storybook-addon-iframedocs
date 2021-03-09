@@ -1,7 +1,7 @@
 {
-  "name": "storybook-addon-kit",
+  "name": "storybook-addon-iframedocs",
   "version": "1.0.0",
-  "description": "everything you need to build a Storybook addon",
+  "description": "just, like show your external docs or any other page in an iframe, thats all i do...",
   "keywords": [
     "storybook-addons",
     "style",
@@ -61,14 +61,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "storybook": {
-    "displayName": "Addon Kit",
-    "supportedFrameworks": [
-      "react",
-      "vue",
-      "angular"
-    ],
-    "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
 }
