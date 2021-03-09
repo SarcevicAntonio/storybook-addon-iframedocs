@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/storybook-addon-kit"
+    "url": "https://github.com/SarcevicAntonio/storybook-addon-iframedocs"
   },
   "author": "winkerVSbecks",
   "license": "MIT",
